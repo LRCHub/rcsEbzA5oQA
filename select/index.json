@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "怪物",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-15T09:11:49.909488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/03_怪物_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/05_怪物_ハンバート_ハンバート.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "ハンバート ハンバート",
+      "has_synced": true,
+      "path": "select/06_怪物_ハンバート_ハンバート.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "鈴木　雅之",
+      "has_synced": true,
+      "path": "select/07_怪物_鈴木_雅之.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/10_怪物_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "怪物 (Kaibutsu)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_怪物_(Kaibutsu)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/12_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/14_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "八三夭",
+      "has_synced": true,
+      "path": "select/15_怪物_八三夭.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/16_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/17_怪物_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/18_怪物_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪物",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_怪物_PompadollS.txt"
+    }
+  ]
+}
